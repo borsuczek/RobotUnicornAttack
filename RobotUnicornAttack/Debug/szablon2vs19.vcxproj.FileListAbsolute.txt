@@ -1,0 +1,6 @@
+C:\Users\meles\Downloads\template-project-2 (2)\template-project-2\Debug\szablon2vs19.exe
+C:\Users\meles\Downloads\template-project-2 (2)\template-project-2\Debug\szablon2vs19.pdb
+C:\Users\meles\Desktop\informatyka\I sem\pp\projekt pp 2 I sem\template-project-2\Debug\szablon2vs19.exe
+C:\Users\meles\Desktop\informatyka\I sem\pp\projekt pp 2 I sem\template-project-2\Debug\szablon2vs19.pdb
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\template-project-2\Debug\RobotUnicornAttack.exe
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\Debug\RobotUnicornAttack.exe

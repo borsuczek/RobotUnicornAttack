@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs19.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(95,11): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(98,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(108,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(111,42): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(132,42): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(151,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(328,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\main.cpp(330,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs19.vcxproj -> C:\Users\meles\Pulpit\informatyka\I sem\pp\projekt pp 2 I sem\RobotUnicornAttack\Debug\RobotUnicornAttack.exe
